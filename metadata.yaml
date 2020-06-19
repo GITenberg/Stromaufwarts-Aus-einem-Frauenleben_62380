@@ -1,5 +1,8 @@
 _repo: Stromaufwarts-Aus-einem-Frauenleben_62380
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62380-h/images/cover.jpg
 creator:
   author:
     agent_name: Langer, Angela
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '51533'
     url: http://www.gutenberg.org/2009/agents/51533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62380#Stromaufwarts-Aus-einem-Frauenleben
 gutenberg_issued: '2020-06-12'
 gutenberg_type: Text
 identifiers:
